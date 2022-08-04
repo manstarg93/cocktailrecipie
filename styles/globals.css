@@ -1,0 +1,24 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: open-sans, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    color: rgb(49, 49, 49);
+   background-color:#F6fbfd;
+}
+
+
+@font-face {
+  font-family: 'open-sans';
+  src: url('/public/img/OpenSans-Regular.ttf');
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
